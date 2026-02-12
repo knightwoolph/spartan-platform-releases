@@ -1,10 +1,17 @@
 {
-  "version": 5,
-  "updatedAt": "2026-02-12T07:33:03.369Z",
-  "announcements": [],
+  "version": 6,
+  "updatedAt": "2026-02-12T07:55:00.643Z",
+  "announcements": [
+    {
+      "id": "ann_remote_patch_test",
+      "message": "Stephen This is a remote Patch",
+      "type": "warning",
+      "dismissible": false
+    }
+  ],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
   "latestVersion": "3.1.0-beta",
-  "releaseNotes": "Update prompt for all users\nRemote config update detection\nDynamic version display\nAuto-extension install\nBug fixes and stability"
+  "releaseNotes": ""
 }
