@@ -1,17 +1,10 @@
 {
-  "version": 4,
-  "updatedAt": "2026-02-12T06:51:03.863Z",
-  "announcements": [
-    {
-      "id": "ann_v3_update",
-      "message": "Spartan Dealer Platform v3.0.0-beta is now available with auto-extension install, dynamic version display, and improved stability. Contact your Spartan rep for the latest installer.",
-      "type": "info",
-      "dismissible": true
-    }
-  ],
+  "version": 5,
+  "updatedAt": "2026-02-12T07:33:03.369Z",
+  "announcements": [],
   "featureFlags": {},
   "commands": [],
-  "minAppVersion": "3.0.0-beta",
-  "latestVersion": "3.1.0",
-  "releaseNotes": "Auto-extension install (no more manual steps)\nDynamic version display in Settings\nUpdate available prompt for all users\nImproved stability and bug fixes"
+  "minAppVersion": "3.1.0-beta",
+  "latestVersion": "3.1.0-beta",
+  "releaseNotes": "Update prompt for all users\nRemote config update detection\nDynamic version display\nAuto-extension install\nBug fixes and stability"
 }
