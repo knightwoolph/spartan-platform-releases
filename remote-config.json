@@ -1,8 +1,15 @@
 {
-  "version": 1,
-  "updatedAt": "2025-02-11T00:00:00.000Z",
-  "announcements": [],
+  "version": 2,
+  "updatedAt": "2026-02-12T06:30:00.000Z",
+  "announcements": [
+    {
+      "id": "ann_v3_update",
+      "message": "Version 3.0 is available! Please update to the latest version for bug fixes, auto-extension install, and improved stability. Contact your Spartan rep for the latest installer.",
+      "type": "warning",
+      "dismissible": false
+    }
+  ],
   "featureFlags": {},
   "commands": [],
-  "minAppVersion": "1.0.0"
+  "minAppVersion": "3.0.0-beta"
 }
