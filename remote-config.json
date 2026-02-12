@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-02-12T06:37:08.523Z",
+  "version": 4,
+  "updatedAt": "2026-02-12T06:51:03.863Z",
   "announcements": [
     {
       "id": "ann_v3_update",
@@ -11,5 +11,7 @@
   ],
   "featureFlags": {},
   "commands": [],
-  "minAppVersion": "3.0.0-beta"
+  "minAppVersion": "3.0.0-beta",
+  "latestVersion": "3.1.0",
+  "releaseNotes": "Auto-extension install (no more manual steps)\nDynamic version display in Settings\nUpdate available prompt for all users\nImproved stability and bug fixes"
 }
