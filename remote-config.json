@@ -1,10 +1,10 @@
 {
-  "version": 10,
-  "updatedAt": "2026-02-17T22:17:27.782Z",
+  "version": 11,
+  "updatedAt": "2026-02-17T22:26:58.429Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.3.16",
+  "latestVersion": "4.3.17",
   "releaseNotes": ""
 }
