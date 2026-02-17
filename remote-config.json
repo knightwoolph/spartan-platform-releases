@@ -1,17 +1,10 @@
 {
-  "version": 6,
-  "updatedAt": "2026-02-12T07:55:00.643Z",
-  "announcements": [
-    {
-      "id": "ann_remote_patch_test",
-      "message": "Stephen This is a remote Patch",
-      "type": "warning",
-      "dismissible": false
-    }
-  ],
+  "version": 7,
+  "updatedAt": "2026-02-17T22:00:00.000Z",
+  "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "3.1.0-beta",
+  "latestVersion": "4.3.13",
   "releaseNotes": ""
 }
