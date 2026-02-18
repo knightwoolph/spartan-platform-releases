@@ -1,10 +1,1 @@
-{
-  "version": 18,
-  "updatedAt": "2026-02-18T03:45:00.000Z",
-  "announcements": [],
-  "featureFlags": {},
-  "commands": [],
-  "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.3.24",
-  "releaseNotes": ""
-}
+{"version":19,"updatedAt":"2026-02-18T14:30:00.000Z","announcements":[],"featureFlags":{},"commands":[],"minAppVersion":"3.1.0-beta","latestVersion":"4.3.25","releaseNotes":"Fix Chrome profile copy — Facebook login carries over during onboarding."}
