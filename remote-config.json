@@ -1,1 +1,1 @@
-{"version":23,"updatedAt":"2026-02-25T06:30:00.000Z","announcements":[],"featureFlags":{},"commands":[],"minAppVersion":"3.1.0-beta","latestVersion":"4.4.3","releaseNotes":"Fix Imagen 3 BGSWAP API request format."}
+{"version":24,"updatedAt":"2026-02-25T08:00:00.000Z","announcements":[],"featureFlags":{},"commands":[],"minAppVersion":"3.1.0-beta","latestVersion":"4.4.4","releaseNotes":"Localizer: auto-download, inventory picker, history tab."}
