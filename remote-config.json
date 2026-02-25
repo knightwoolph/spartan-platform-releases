@@ -1,10 +1,10 @@
 {
-  "version": 22,
-  "updatedAt": "2026-02-25T08:30:00.000Z",
+  "version": 23,
+  "updatedAt": "2026-02-25T09:00:00.000Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.4.7",
-  "releaseNotes": "Nuclear data pack fix: main process auto-dismisses before renderer loads. Error fallback changed to safe (no dialog)."
+  "latestVersion": "4.4.8",
+  "releaseNotes": "Data pack auto-prompt removed entirely. Dialog is now user-initiated only."
 }
