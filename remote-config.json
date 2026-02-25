@@ -1,10 +1,1 @@
-{
-  "version": 21,
-  "updatedAt": "2026-02-25T04:30:00.000Z",
-  "announcements": [],
-  "featureFlags": {},
-  "commands": [],
-  "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.4.1",
-  "releaseNotes": "Media Studio + Photo Localizer (Basic), demo polish fixes, Imagen 3 integration."
-}
+{"version":22,"updatedAt":"2026-02-25T06:00:00.000Z","announcements":[],"featureFlags":{},"commands":[],"minAppVersion":"3.1.0-beta","latestVersion":"4.4.2","releaseNotes":"Localizer: photo select fix, JSON upload, data pack persistence across updates."}
