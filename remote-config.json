@@ -1,10 +1,10 @@
 {
-  "version": 21,
-  "updatedAt": "2026-02-25T08:00:00.000Z",
+  "version": 22,
+  "updatedAt": "2026-02-25T08:30:00.000Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.4.6",
-  "releaseNotes": "Hotfix: data pack dialog persistence fix — DB-based product check eliminates false positives after OTA updates."
+  "latestVersion": "4.4.7",
+  "releaseNotes": "Nuclear data pack fix: main process auto-dismisses before renderer loads. Error fallback changed to safe (no dialog)."
 }
