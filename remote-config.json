@@ -1,10 +1,10 @@
 {
-  "version": 20,
-  "updatedAt": "2026-02-20T12:00:00.000Z",
+  "version": 19,
+  "updatedAt": "2026-02-25T02:40:00.000Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.3.26",
-  "releaseNotes": "FB photo optimization \u2014 Orange/Green indicators, click-to-optimize, max quality under 9MB."
+  "latestVersion": "4.4.0",
+  "releaseNotes": "Queue reliability — task retry with backoff, heartbeat timeout, FIFO queue, license expiry warnings."
 }
