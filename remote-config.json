@@ -1,10 +1,10 @@
 {
-  "version": 25,
-  "updatedAt": "2026-02-25T17:30:00.000Z",
+  "version": 26,
+  "updatedAt": "2026-02-25T22:00:00.000Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.4.10",
-  "releaseNotes": "Inventory sync diagnostics + null guard on sync-products handler."
+  "latestVersion": "4.4.11",
+  "releaseNotes": "Empty inventory data pack CTA button + MSRPLoader integration."
 }
