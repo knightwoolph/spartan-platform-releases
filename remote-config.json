@@ -1,10 +1,10 @@
 {
-  "version": 27,
-  "updatedAt": "2026-03-04T00:00:00.000Z",
+  "version": 28,
+  "updatedAt": "2026-03-05T00:00:00.000Z",
   "announcements": [],
   "featureFlags": {},
   "commands": [],
   "minAppVersion": "3.1.0-beta",
-  "latestVersion": "4.4.12",
-  "releaseNotes": "Fix double-post bug, MSRP resync on OTA, remove Chrome profile system."
+  "latestVersion": "4.4.13",
+  "releaseNotes": "UI completeness: Analytics page, dashboard quick stats, history calendar, inventory bulk operations, thumbnail cache fix."
 }
